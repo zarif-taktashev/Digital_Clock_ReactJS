@@ -1,5 +1,5 @@
 {
-  "name": "count-down",
+  "name": "digital-clock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
